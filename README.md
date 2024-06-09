@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @queenhekate
-- 👀 I’m interested in coding, yoga, education, environmental preservation, classical literature
+- 👀 I’m interested in coding, yoga, education, environmental preservation, and social justice
 - 🌱 I’m currently learning full-stack software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
