@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johanna S.</h1>
+<h1 align="center">Hi 👋, I'm Johanna Schnell</h1>
 <h3 align="center">A Software Engineering student from California</h3>
 
 - 🌱 I’m currently learning **Javascript**
