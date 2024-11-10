@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johanna S.</h1>
 <h3 align="center">A Front-End Software Engineer from California</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **HTML, CSS, and Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **johannaschnell@gmail.com**
 
