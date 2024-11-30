@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johanna S.</h1>
 <h3 align="center">A Front-End Software Engineer from California</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Express**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
