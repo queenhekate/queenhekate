@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **AI, Cloud Architechture**
+- 💬 Ask me about **AI, Cloud Architecture**
 
 - 📫 How to reach me **johannaschnell@gmail.com**
 
