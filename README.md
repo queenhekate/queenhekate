@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johanna S.</h1>
-<h3 align="center">A Front-End Software Engineer from California</h3>
+<h3 align="center">A Full Stack Software Engineer from California</h3>
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬 Ask me about **AI, Cloud Architechture**
 
 - 📫 How to reach me **johannaschnell@gmail.com**
 
